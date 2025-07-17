@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sputnik</groupId>
-	<artifactId>suputnik</artifactId>
+	<artifactId>sputnik</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>suputnik</name>
 	<description>MVP do projeto de manual de atendimento.</description>
